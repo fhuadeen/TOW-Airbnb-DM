@@ -1,3 +1,5 @@
 Documenting airbnb DS workflow.docx
 .ipynb_checkpoints
-/train_test_sets
+/sets_funtions
+joblib_test.ipynb
+airbnbModel.sav
